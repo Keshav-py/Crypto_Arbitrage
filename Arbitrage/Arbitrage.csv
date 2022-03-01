@@ -1,4 +1,4 @@
-Date,Time,Kraken(buy),Zebpay(sell),ProfitAmt,Profit%
+Time,Date,Kraken(buy),Zebpay(sell),ProfitAmt,Profit%
 
 00:33:10,01/03/2022,210150,218400,8250,3.93
 00:42:29,01/03/2022,210000,218401,8401,4.00
